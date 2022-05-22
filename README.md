@@ -15,9 +15,9 @@ I am an Informatics Engineering student from **Sepuluh Nopember Institute of Tec
 <a href="https://www.php.net/"><img align="left" alt="React" title="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 <a href="https://www.php.net/"><img align="left" alt="React" title="PHP" width="71px" src="https://laravel.com/img/logotype.min.svg" /></a>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="http://www.w3.org/2000/svg" /></a>
-<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="/images/responsive/global/pic-header-mathworks-logo.svg" /></a>
-<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" /></a>
+<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" /></a>
+<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" /></a>
+<a href="https://www.php.net/"><img align="left" alt="React" title="kotlin" width="71px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" /></a>
 
 <br>
 <br>
