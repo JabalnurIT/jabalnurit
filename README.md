@@ -25,7 +25,7 @@ I am an Informatics Engineering student from **Sepuluh Nopember Institute of Tec
 ### Github Statistic
 
 <p align="left">
-<a href="https://github.com/fillahaufi">
+<a href="https://github.com/jabalnurit">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jabalnurit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jabalnurit&layout=compact&langs_count=8&theme=algolia"/>
 </a>
